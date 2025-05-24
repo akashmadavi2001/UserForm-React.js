@@ -1,0 +1,62 @@
+.bg-con {
+    padding: 50px;
+}
+
+.bg-container {
+    background-color: #ffffffd3;
+    border-radius: 10px;
+}
+
+.table-d button {
+    font-size: medium;
+    padding: 5px;
+    margin: 5px;
+}
+
+
+@media (max-width:430px) {
+    .table-d {
+        width: 425px;
+    }
+
+    .table-d th {
+        font-size: 10px;
+    }
+
+    .table-d td {
+        font-size: 10px;
+    }
+    .table-d button {
+        font-size: 10px;
+        padding: 3px !important;
+    }
+}
+
+@media (max-width:380px) {
+    .table-d {
+        width: 375px;
+    }
+
+    .table-d th {
+        font-size: 10px;
+    }
+
+    .table-d td {
+        font-size: 10px;
+    }
+
+}
+
+@media (max-width:325px) {
+    .table-d {
+        width: 320px;
+    }
+
+    .table-d th {
+        font-size: 10px;
+    }
+
+    .table-d td {
+        font-size: 10px;
+    }
+}
